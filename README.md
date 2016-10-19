@@ -27,7 +27,7 @@ cd PokiLib
 make
 ```
 
-You will no have an `encrypt.so` file that you can copy to the required location.
+You will now have an `encrypt.so` file that you can copy to the required location.
 
 ### Windows
 
@@ -46,5 +46,5 @@ To build this on Windows you need Visual Studio and the provided Visual Studio C
 ## Credit
 
 * Unknown6 team for figuring this out
-* Raw files came from [pgoencrypt.tar.gz](http://pgoapi.com/pgoencrypt.tar.gz "pgoencrypt.tar.gz") 
+* Raw files came from [pgoencrypt.tar.gz](http://pgoapi.com/pgoencrypt.tar.gz "pgoencrypt.tar.gz")
 * I claim nothing more than compiling the binary dll files and adding the `build_dll.bat` and `build_dll_64.bat` files and file.
